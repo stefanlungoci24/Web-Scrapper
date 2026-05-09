@@ -9,12 +9,6 @@
     "start": "tsx src/index.ts",
     "build": "tsc"
   },
-  "keywords": [
-    "scraper",
-    "typescript",
-    "shopify",
-    "technologies"
-  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
